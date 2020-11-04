@@ -1,4 +1,4 @@
-//自动出错程序
+//鑷姩鍑洪敊绋嬪簭
 #include<iostream>
 #include<ctime>
 #include<cstdlib>
